@@ -1,7 +1,9 @@
 IDFG-WMA-Interactive-Map
 ========================
 
-Idaho Fish and Game Wildlife Management Area Interactive Map
+Idaho Fish and Game Wildlife Management Area Interactive Map.  
+Thirty-two Wildlife Management Areas located in seven Fish and Game regions have been established to protect wildlife habitat and are available for hunting, fishing and other public enjoyment of wildlife. 
+Varying from 275 to 85,000 acres, each area is dedicated to primary purposes such as big game, waterfowl and upland game.
 
 This map was created through a combination of ArcGIS Online, ArcServer, and an Esri story map template.
 
