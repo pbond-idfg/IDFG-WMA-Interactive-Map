@@ -11,3 +11,7 @@ The intital story map application template was downloaded from:
 http://www.arcgis.com/home/item.html?id=36818676b74b453facef972ee5d90114
 
 It was further customized to give it the IDFG look and feel and to add more functionality, such as the basemap picker.
+
+This interactive map has been "retired" and replaced with a new, responsive version.
+Retired version: http://fishandgame.idaho.gov/ifwis/maps/wma_retired/
+New version: http://fishandgame.idaho.gov/ifwis/maps/wma/
